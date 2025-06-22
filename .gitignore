@@ -1,0 +1,6 @@
+/Backend/.vs
+/Backend/API/obj
+/Backend/DataAccessLayer/obj
+/Backend/ServiceLayer/obj
+Backend/API/appsettings.json
+Backend/API/appsettings.Development.json
